@@ -12,7 +12,8 @@ All credits go to CC-Development.
 * ... and all features from ps-hud/qb-hud
 
 ## Dependencies
-* Only QBCore is required
+*   ESX
+*   ox_lib
 
 ## Installation
 * **Remove your current HUD script**
